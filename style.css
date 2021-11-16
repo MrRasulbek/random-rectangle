@@ -1,0 +1,13 @@
+body{
+               background-color: rgb(12, 122, 42);
+               height: 100vh;
+               display: flex;
+               align-items: center;
+               justify-content: center;
+}
+.title{
+               color: yellow;
+               font-size: 50px;
+               font-family: sans-serif;
+               letter-spacing: 0.03em;
+}
